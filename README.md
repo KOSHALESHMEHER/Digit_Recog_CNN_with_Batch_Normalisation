@@ -1,1 +1,1 @@
-# Digit_Recognition_FCNN
+# Digit_Recognition_CNN_with_Batch_Normalisation
